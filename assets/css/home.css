@@ -2163,7 +2163,7 @@
         font-size: 29.32px;
         line-height: 28.24px;
         text-align: center;
-        right: 7px;
+        right: 15px;
 
     }
 
@@ -2448,7 +2448,7 @@
         display: block;
         position: absolute;
         bottom: -300px;
-
+        right: 0;
     }
 
     .hero-snake-mobile {
